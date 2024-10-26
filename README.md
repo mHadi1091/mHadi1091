@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack web development and exploring innovative technologies.
 - 🌱 I’m currently learning advanced React techniques and diving deeper into backend development.
 - 💞️ I’m looking to collaborate on web development projects that involve creative problem-solving and teamwork.
-- 📫 How to reach me: You can connect with me on LinkedIn or send me a message on my email (mhadimalik2004@gmail.com).
+- 📫 How to reach me: You can connect with me on LinkedIn or send me a message on my email mhadimalik2004@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love finding new ways to combine my interest in technology with photography and design tools like Adobe Lightroom and Photoshop.
 
