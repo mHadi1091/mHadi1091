@@ -28,9 +28,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mhadi1091&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=mhadi1091&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
 mHadi1091/mHadi1091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.....
+[![Profile Views](https://visitcount.itsvg.in/api?id=mhadi1091&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 --->
